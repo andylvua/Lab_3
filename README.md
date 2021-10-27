@@ -1,5 +1,5 @@
 # Lab_3
-IoT C/C++ Course. (Lab 3)
+IoT C/C++ Course.
 
 Lab 3 of programming and algo couse of Lviv Polytechnic National University on Internet of Things.
 
